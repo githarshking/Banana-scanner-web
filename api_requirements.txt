@@ -1,0 +1,7 @@
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+python-multipart
+Pillow
+torch  # Ensure PyTorch is installed (CPU version is fine for deployment)
+torchvision
+numpy

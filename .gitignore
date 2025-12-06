@@ -1,0 +1,6 @@
+nyenv/
+__pycache__/
+*.pth
+*.onnx
+frontend/node_modules/
+.DS_Store
