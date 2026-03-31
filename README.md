@@ -14,6 +14,8 @@
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Frontend-SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" /></a>
   <a href="#-deployment"><img src="https://img.shields.io/badge/Deploy-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" /></a>
+  <br /><br />
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/%23PyTorch-Implemented_with_PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="#PyTorch" /></a>
 </p>
 
 <p align="center">
